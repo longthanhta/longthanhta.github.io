@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Long's Personal Website"
 title_separator          : "-"
 name                     : &name "Ta Thanh Long"
-description              : &description "Final Year PhD student"
+description              : &description "PhD student"
 url                      : https://longthanhta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/longthanhta/longthanhta.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &tathanhlong9
 facebook:
-  username               :
+  username               :tathanhlong1996
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
